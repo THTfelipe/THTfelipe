@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💗
 
-<!--
-**THTfelipe/THTfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Felipe Augusto da Silva Antunes
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou aprendendo Java e JavaScript
+- Sei o básico do Scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Entre em contato comigo 📫
+
+- felipea010203@gmail.com
+
+![](https://media1.tenor.com/m/bVv7G3zfJHEAAAAC/heheheha-laugh.gif)
